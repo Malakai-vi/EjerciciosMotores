@@ -15,7 +15,7 @@ public class MenuPrincipal : MonoBehaviour
 
     public void JugarNivel3()
     {
-        //SceneManager.LoadScene("Nivel3");
+        SceneManager.LoadScene("Nivel3");
     }
 
     public void Salir()
