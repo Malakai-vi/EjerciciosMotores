@@ -3,6 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class MenuPausa : MonoBehaviour
 {
+    //Ejercicio 20: Pausa (en vez de con ESC con botón
+    //P ya que he usado ESC para los saltos)
     [SerializeField] private GameObject panelPausa;
     private bool juegoPausado = false;
 
